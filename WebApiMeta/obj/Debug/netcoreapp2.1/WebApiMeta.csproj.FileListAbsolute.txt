@@ -1,0 +1,14 @@
+C:\Users\Bruno\source\repos\WebApiMeta\WebApiMeta\bin\Debug\netcoreapp2.1\WebApiMeta.deps.json
+C:\Users\Bruno\source\repos\WebApiMeta\WebApiMeta\bin\Debug\netcoreapp2.1\WebApiMeta.runtimeconfig.json
+C:\Users\Bruno\source\repos\WebApiMeta\WebApiMeta\bin\Debug\netcoreapp2.1\WebApiMeta.runtimeconfig.dev.json
+C:\Users\Bruno\source\repos\WebApiMeta\WebApiMeta\bin\Debug\netcoreapp2.1\WebApiMeta.dll
+C:\Users\Bruno\source\repos\WebApiMeta\WebApiMeta\bin\Debug\netcoreapp2.1\WebApiMeta.pdb
+C:\Users\Bruno\source\repos\WebApiMeta\WebApiMeta\obj\Debug\netcoreapp2.1\WebApiMeta.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\WebApiMeta\WebApiMeta\obj\Debug\netcoreapp2.1\WebApiMeta.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\WebApiMeta\WebApiMeta\obj\Debug\netcoreapp2.1\WebApiMeta.RazorAssemblyInfo.cache
+C:\Users\Bruno\source\repos\WebApiMeta\WebApiMeta\obj\Debug\netcoreapp2.1\WebApiMeta.RazorAssemblyInfo.cs
+C:\Users\Bruno\source\repos\WebApiMeta\WebApiMeta\obj\Debug\netcoreapp2.1\WebApiMeta.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\WebApiMeta\WebApiMeta\obj\Debug\netcoreapp2.1\WebApiMeta.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\WebApiMeta\WebApiMeta\obj\Debug\netcoreapp2.1\WebApiMeta.RazorTargetAssemblyInfo.cache
+C:\Users\Bruno\source\repos\WebApiMeta\WebApiMeta\obj\Debug\netcoreapp2.1\WebApiMeta.dll
+C:\Users\Bruno\source\repos\WebApiMeta\WebApiMeta\obj\Debug\netcoreapp2.1\WebApiMeta.pdb
